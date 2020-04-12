@@ -3,7 +3,7 @@ Learn to speak in Valyrian and Dothraki with this Swift IOS App that translates 
 
 Used FUNTranslations API of translating English to Dothraki or Valyrian!
 
-![Westeros Translator](https://media.giphy.com/media/d7BlG7y36bHKnALmmz/giphy.gif)
+![Westeros Translator](https://media.giphy.com/media/JRJ2aumnhrv22OvWhq/giphy.gif)
 
 Logic Practiced:
 
